@@ -9,7 +9,7 @@ We further calcuate feature importance using Random Forest Algorithm to determin
 
 India holds the general elections for the lower house of the parliament after every five years. Elections are held over 543 seats (total number of elected candidates) across 29 states and 7 Union Territories. With over 900 million elligible voters and more than 7000 candidates in 2019, the general elections in India are the largest in the world.
 
-### Check Untitled1.ipynb for all the analysis 
+### Check [Untitled1.ipynb](https://github.com/ankush929/Indian-Election-Analysis/blob/master/Untitled1.ipynb) for the analysis 
 
 
 #### The data for the 2019 elections has not yet been published by the Election Commission of India. For this project, the available data from 2004, 2009 and 2014 elections is used.
